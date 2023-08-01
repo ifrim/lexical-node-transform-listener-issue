@@ -1,4 +1,4 @@
-# Lexical selection issue
+# Lexical node transform listener issue
 
 Repository used to replicate the issue with multiple [lexical](https://github.com/facebook/lexical) editors on the same page when we add a node transform "listener".
 
