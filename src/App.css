@@ -1,0 +1,16 @@
+#root {
+	max-width: 1280px;
+	margin: 0 auto;
+}
+
+[data-lexical-editor] {
+	border: 1px solid black;
+	outline: none;
+	min-inline-size: 200px;
+	padding: 5px;
+	margin-block: 10px;
+}
+
+p {
+	margin: 0;
+}
